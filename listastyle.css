@@ -1,0 +1,46 @@
+body{    background-image: url(listahatter.jpg);
+    background-size: cover;
+
+
+    background-size: cover;
+    user-select: none;
+}
+header{
+    background-image: url(galaxyheader.jpg);
+    background-size:cover;
+}
+h2{
+    font-family: fantasy;
+    color: cyan;
+}
+h1{
+    font-family: fantasy;
+    color:blueviolet
+}
+img {
+    margin-left: 40px;
+}
+nav{
+    
+    background-size: cover;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 2px solid turquoise;
+    background-color:darkmagenta
+}
+
+th {
+    background-color:cornflowerblue;
+}
+
+img {
+    -webkit-user-drag: none;
+}
+

@@ -1,0 +1,28 @@
+body{
+    background-image: url(gpizza.png);
+    background-size: cover;
+    user-select: none;
+}
+header{
+    background-image: url(galaxyheader.jpg);
+    background-size:cover;
+}
+h2{
+    font-family: fantasy;
+}
+h1{
+    font-family: fantasy;
+    color: red;
+}
+img {
+    margin-left: 40px;
+}
+nav{
+    background-image: url(galaxyheader.jpg);
+    background-size: cover;
+}
+
+img {
+    -webkit-user-drag: none;
+}
+
