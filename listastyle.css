@@ -33,7 +33,9 @@ th, td {
     padding: 8px;
     text-align: left;
     border-bottom: 2px solid turquoise;
-    background-color:darkmagenta
+    background-color:darkmagenta;
+    opacity: 90%;
+    
 }
 
 th {
