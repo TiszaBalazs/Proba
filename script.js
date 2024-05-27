@@ -36,8 +36,8 @@ function proba(id) {
         <td><h3>${res.name}
             <img src="${res.kepURL}" alt="${res.name}" width="300">
         </h3></td>
-        <td><h3>Az űr legfrissebb gyümölcsei préselve</h3></td>
-        <td><h3>5 GP</h3></td>
+        <td><h3>Az űr legfrissebb pizzái</h3></td>
+        <td><h3>7 GP</h3></td>
     </tr>
     `}})
 }
